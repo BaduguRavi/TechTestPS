@@ -9,7 +9,7 @@ Pre Requisites of the Software
 
 Source Files
 
-1) The TechTestPS project shall be downloaded from github - 
+1) The TechTestPS project shall be downloaded from github - https://github.com/BaduguRavi/TechTestPS
 2) Open the Project TechTestPS.sln project from downloaded folder
 3) Activate the specflow + Runner licence from https://account.specflow.org/clientactivation/welcome/Runner/1B72F805FBD44D56AEE6CA264ED20A2B2949FF993317DC7A64BB2401993BCF8728CC66A3/NotActivatedYet
 4) The chromedriver is available in given path "TechTestPS\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1", in case it is missing, download the chromedriver.exe and place it in the mentioned directory
